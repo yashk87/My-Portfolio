@@ -92,7 +92,7 @@ export const projects = [
     des: "Created My Personal Portfolio website, combining GSAP animations and Three.js 3D effects For appealing User Experience",
     img: "/port.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    link: "https://my-portfolio-red-delta.vercel.app/",
   },
   {
     id: 4,
